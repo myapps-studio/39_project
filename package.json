@@ -1,0 +1,24 @@
+{
+  "name": "39_project_mongodb",
+  "version": "1.0.0",
+  "description": "[Link do heroku app](https://guarded-inlet-24894.herokuapp.com/)",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^5.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myapps-studio/39_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myapps-studio/39_project/issues"
+  },
+  "homepage": "https://github.com/myapps-studio/39_project#readme"
+}
